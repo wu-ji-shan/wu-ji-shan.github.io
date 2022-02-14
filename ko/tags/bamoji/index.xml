@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>bamoji on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/tags/bamoji/</link>
-    <description>Recent content in bamoji on Hugo Zzo Theme</description>
+    <title>bamoji on 无机山</title>
+    <link>http://wu-ji-shan.github.io/ko/tags/bamoji/</link>
+    <description>Recent content in bamoji on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/ko/tags/bamoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/ko/en/posts/emoji-support/</link>
+        <link>http://wu-ji-shan.github.io/ko/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/ko/en/posts/emoji-support/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
@@ -62,11 +62,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/ko/zh/posts/emoji-support/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/posts/emoji-support/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

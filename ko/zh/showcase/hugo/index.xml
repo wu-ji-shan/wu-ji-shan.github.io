@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/zh/showcase/hugo/</link>
-    <description>Recent content in Hugo on Hugo Zzo Theme</description>
+    <title>Hugo on 无机山</title>
+    <link>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/</link>
+    <description>Recent content in Hugo on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/zh/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/ko/zh/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hugo Zzo Theme</title>
-        <link>http://example.org/ko/zh/showcase/hugo/hugo-theme-zzo/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/showcase/hugo/hugo-theme-zzo/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-        <link>http://example.org/ko/zh/showcase/hugo/hugo-theme-zdoc/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/showcase/hugo/hugo-theme-zdoc/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>

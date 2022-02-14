@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>misc on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/en/publication/misc/</link>
-    <description>Recent content in misc on Hugo Zzo Theme</description>
+    <title>misc on 无机山</title>
+    <link>http://wu-ji-shan.github.io/ko/en/publication/misc/</link>
+    <description>Recent content in misc on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/en/publication/misc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/ko/en/publication/misc/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Book Review: Duis vulputate</title>
-        <link>http://example.org/ko/en/publication/misc/misc_any_folder_name_1/</link>
+        <link>http://wu-ji-shan.github.io/ko/en/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/ko/en/publication/misc/misc_any_folder_name_1/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/en/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>

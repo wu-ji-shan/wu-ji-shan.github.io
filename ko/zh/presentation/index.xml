@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Presentations on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/zh/presentation/</link>
-    <description>Recent content in Presentations on Hugo Zzo Theme</description>
+    <title>Presentations on 无机山</title>
+    <link>http://wu-ji-shan.github.io/ko/zh/presentation/</link>
+    <description>Recent content in Presentations on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
@@ -16,21 +16,21 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/ko/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>http://example.org/ko/zh/presentation/dir/fourth/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/presentation/dir/fourth/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
-        <media:content url="http://example.orgimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://wu-ji-shan.github.ioimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>Third</title>
-        <link>http://example.org/ko/zh/presentation/third/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/presentation/third/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/presentation/third/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
-        <media:content url="http://example.orgimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://wu-ji-shan.github.ioimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>Second</title>
-        <link>http://example.org/ko/zh/presentation/second/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/presentation/second/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/presentation/second/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
-        <media:content url="http://example.orgimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://wu-ji-shan.github.ioimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -112,15 +112,15 @@
       
       <item>
         <title>First</title>
-        <link>http://example.org/ko/zh/presentation/first/</link>
+        <link>http://wu-ji-shan.github.io/ko/zh/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>http://example.org/ko/zh/presentation/first/</guid>
+        <guid>http://wu-ji-shan.github.io/ko/zh/presentation/first/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
-        <media:content url="http://example.orgimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://wu-ji-shan.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
