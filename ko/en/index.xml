@@ -11,8 +11,6 @@
     <description>Recent content on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
-    <webMaster>zpc999@gmail.com (无机山人)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>Posts</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         
         <guid>http://wu-ji-shan.github.io/ko/en/posts/</guid>
         <description></description>
@@ -48,7 +46,7 @@
         <title>Showcase overview</title>
         <link>http://wu-ji-shan.github.io/ko/en/showcase/</link>
         <pubDate>Sun, 19 Jan 2020 15:43:38 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 15:43:38 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/showcase/</guid>
         <description></description>
@@ -66,7 +64,7 @@
         <title>Cartoon</title>
         <link>http://wu-ji-shan.github.io/ko/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
@@ -84,7 +82,7 @@
         <title>Photo</title>
         <link>http://wu-ji-shan.github.io/ko/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
@@ -102,7 +100,7 @@
         <title>Presentations</title>
         <link>http://wu-ji-shan.github.io/ko/en/presentation/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         
         <guid>http://wu-ji-shan.github.io/ko/en/presentation/</guid>
         <description></description>
@@ -120,7 +118,7 @@
         <title>Archive</title>
         <link>http://wu-ji-shan.github.io/ko/en/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/archive/</guid>
         <description>archive page</description>
@@ -138,7 +136,7 @@
         <title>About</title>
         <link>http://wu-ji-shan.github.io/ko/en/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/about/</guid>
         <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.

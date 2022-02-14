@@ -11,8 +11,6 @@
     <description>Recent content on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
-    <webMaster>zpc999@gmail.com (无机山人)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Feb 2022 00:00:00 -0500</lastBuildDate>
     
@@ -45,7 +43,7 @@
         <title>Hugo Zzo Theme</title>
         <link>http://wu-ji-shan.github.io/ko/en/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
@@ -63,7 +61,7 @@
         <title>Hugo Zzo Theme</title>
         <link>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
@@ -81,7 +79,7 @@
         <title>Hugo zDoc Theme</title>
         <link>http://wu-ji-shan.github.io/ko/en/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
@@ -99,7 +97,7 @@
         <title>Hugo zDoc Theme</title>
         <link>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
@@ -117,10 +115,10 @@
         <title>第一弹试验成功</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/my-first-post/</link>
         <pubDate>Sat, 12 Feb 2022 00:00:00 -0500</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 12 Feb 2022 00:00:00 -0500</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/my-first-post/</guid>
-        <description>Okay&amp;hellip;&amp;hellip;This is my post body. this is a subsection Say something here more headings here blabla</description>
+        <description>建立一个网站，好比买一个房子。大致有两种方式。第一种方式是自己设计，自己施工，一切按照自己的意愿来。这需要很长的时间和花费大的精力，且还得有</description>
         
         <dc:creator>[无机山人]</dc:creator>
         
@@ -129,14 +127,18 @@
         
           
             
-              <category>tag1</category>
+              <category>github</category>
+            
+          
+            
+              <category>建网站</category>
             
           
         
         
           
             
-              <category>category1</category>
+              <category>信息技术</category>
             
           
         
@@ -147,7 +149,7 @@
         <title>Shortcodes</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
@@ -180,7 +182,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Shortcodes</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode  Code tabs Make it easy to switch between different code
@@ -213,7 +215,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Markdown Syntax Guide</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
@@ -265,7 +267,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Markdown Syntax Guide</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
@@ -317,7 +319,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Rich Content</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
@@ -345,7 +347,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Rich Content</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
@@ -373,7 +375,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Syntax highlighting</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/syntax-highlight/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/syntax-highlight/</guid>
         <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
@@ -407,7 +409,7 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
         <title>Math Typesetting</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/math-typesetting/</link>
         <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Tue, 17 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/math-typesetting/</guid>
         <description>&lt;div class=&#34;box&#34;&gt;
@@ -429,7 +431,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Math Typesetting</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/math-typesetting/</link>
         <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Tue, 17 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/math-typesetting/</guid>
         <description>&lt;div class=&#34;box&#34;&gt;
@@ -451,7 +453,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Emoji Support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
@@ -491,7 +493,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Emoji Support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
@@ -531,7 +533,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Viz support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-viz/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-viz/</guid>
         <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
@@ -563,7 +565,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Viz support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-viz/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 21:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-viz/</guid>
         <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; a0 -&amp;gt; a1 -&amp;gt; a2 -&amp;gt; a3; label = &amp;quot;process #1&amp;quot;; } subgraph cluster_1 { node [style=filled]; b0 -&amp;gt; b1 -&amp;gt; b2 -&amp;gt; b3; label = &amp;quot;process #2&amp;quot;; color=blue } start -&amp;gt; a0; start -&amp;gt; b0; a1 -&amp;gt; b3; b2 -&amp;gt; a3; a3 -&amp;gt; a0; a3 -&amp;gt; end; b3 -&amp;gt; end; start [shape=Mdiamond]; end [shape=Msquare]; } </description>
@@ -595,7 +597,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Wavedrom support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-wavedrom/</link>
         <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-wavedrom/</guid>
         <description>{ &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;: &amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;: &amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} </description>
@@ -627,7 +629,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Wavedrom support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-wavedrom/</link>
         <pubDate>Mon, 18 Nov 2019 18:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 18:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-wavedrom/</guid>
         <description>{ &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;: &amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;: &amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;: &amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} </description>
@@ -659,7 +661,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Chart support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-chartjs/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-chartjs/</guid>
         <description>{ &amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [{ &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 3, 8] }] } } { &amp;quot;type&amp;quot;: &amp;quot;line&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [ { &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 2, 3], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;orange&amp;quot; }, { &amp;quot;label&amp;quot;: &amp;quot;Some other set&amp;quot;, &amp;quot;data&amp;quot;: [15, 8, 13, 5, 5, 9], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;#44ccff&amp;quot; } ] } } </description>
@@ -691,7 +693,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Chart support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-chartjs/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-chartjs/</guid>
         <description>{ &amp;quot;type&amp;quot;: &amp;quot;bar&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [{ &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 3, 8] }] } } { &amp;quot;type&amp;quot;: &amp;quot;line&amp;quot;, &amp;quot;data&amp;quot;: { &amp;quot;labels&amp;quot;: [&amp;quot;One&amp;quot;, &amp;quot;Two&amp;quot;, &amp;quot;Three&amp;quot;, &amp;quot;Four&amp;quot;, &amp;quot;Five&amp;quot;, &amp;quot;Six&amp;quot;], &amp;quot;datasets&amp;quot;: [ { &amp;quot;label&amp;quot;: &amp;quot;# of Votes&amp;quot;, &amp;quot;data&amp;quot;: [12, 19, 3, 5, 2, 3], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;orange&amp;quot; }, { &amp;quot;label&amp;quot;: &amp;quot;Some other set&amp;quot;, &amp;quot;data&amp;quot;: [15, 8, 13, 5, 5, 9], &amp;quot;backgroundColor&amp;quot;:&amp;quot;transparent&amp;quot;, &amp;quot;borderColor&amp;quot;:&amp;quot;#44ccff&amp;quot; } ] } } </description>
@@ -723,7 +725,7 @@ We need goldmark katex entension which is not yet we have:
         <title>JS Sequence Diagram support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-js-sequence-diagrams/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-js-sequence-diagrams/</guid>
         <description>Alice-&amp;gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&amp;gt;Alice: I am good thanks! Title: Here is a title A-&amp;gt;B: Normal line B--&amp;gt;C: Dashed line C-&amp;gt;&amp;gt;D: Open arrow D--&amp;gt;&amp;gt;A: Dashed open arrow </description>
@@ -755,7 +757,7 @@ We need goldmark katex entension which is not yet we have:
         <title>JS Sequence Diagram support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-js-sequence-diagrams/</link>
         <pubDate>Mon, 18 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Mon, 18 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-js-sequence-diagrams/</guid>
         <description>Alice-&amp;gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&amp;gt;Alice: I am good thanks! Title: Here is a title A-&amp;gt;B: Normal line B--&amp;gt;C: Dashed line C-&amp;gt;&amp;gt;D: Open arrow D--&amp;gt;&amp;gt;A: Dashed open arrow </description>
@@ -787,7 +789,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Mermaid support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-mermaid/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-mermaid/</guid>
         <description>graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; sequenceDiagram participant Alice participant Bob Alice-&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail... John--&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob--&amp;gt;John: Jolly good! graph TD A[Hard] --&amp;gt;|Text| B(Round) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result 1] C --&amp;gt;|Two| E[Result 2] gantt section Section Completed :done, des1, 2014-01-06,2014-01-08 Active :active, des2, 2014-01-07, 3d Parallel 1 : des3, after des1, 1d Parallel 2 : des4, after des1, 1d Parallel 3 : des5, after des3, 1d Parallel 4 : des6, after des4, 1d classDiagram Class01 &amp;lt;|-- AveryLongClass : Cool &amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01 Class09 --&amp;gt; C2 : Where am i?</description>
@@ -821,7 +823,7 @@ We need goldmark katex entension which is not yet we have:
         <title>Mermaid support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-mermaid/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sun, 17 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-mermaid/</guid>
         <description>graph TD; A--&amp;gt;B; A--&amp;gt;C; B--&amp;gt;D; C--&amp;gt;D; sequenceDiagram participant Alice participant Bob Alice-&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail... John--&amp;gt;Alice: Great! John-&amp;gt;Bob: How about you? Bob--&amp;gt;John: Jolly good! graph TD A[Hard] --&amp;gt;|Text| B(Round) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result 1] C --&amp;gt;|Two| E[Result 2] gantt section Section Completed :done, des1, 2014-01-06,2014-01-08 Active :active, des2, 2014-01-07, 3d Parallel 1 : des3, after des1, 1d Parallel 2 : des4, after des1, 1d Parallel 3 : des5, after des3, 1d Parallel 4 : des6, after des4, 1d classDiagram Class01 &amp;lt;|-- AveryLongClass : Cool &amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01 Class09 --&amp;gt; C2 : Where am i?</description>
@@ -855,7 +857,7 @@ We need goldmark katex entension which is not yet we have:
         <title>MathJax support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-mathjax/</guid>
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
@@ -888,7 +890,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         <title>MathJax support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-mathjax/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Sat, 16 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-mathjax/</guid>
         <description>When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
@@ -921,7 +923,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         <title>Katex support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-katex/</guid>
         <description>The following
@@ -960,7 +962,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Katex support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-katex/</link>
         <pubDate>Fri, 15 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 15 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-katex/</guid>
         <description>The following
@@ -999,7 +1001,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Flowchart support</title>
         <link>http://wu-ji-shan.github.io/ko/en/posts/test-flowchart/</link>
         <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/posts/test-flowchart/</guid>
         <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank] e=&amp;gt;end: End|future:&amp;gt;http://www.google.com op1=&amp;gt;operation: My Operation|past op2=&amp;gt;operation: Stuff|current sub1=&amp;gt;subroutine: My Subroutine|invalid cond=&amp;gt;condition: Yes or No?|approved:&amp;gt;http://www.google.com c2=&amp;gt;condition: Good idea|rejected io=&amp;gt;inputoutput: catch something...|future st-&amp;gt;op1(right)-&amp;gt;cond cond(yes, right)-&amp;gt;c2 cond(no)-&amp;gt;sub1(left)-&amp;gt;op1 c2(yes)-&amp;gt;io-&amp;gt;e c2(no)-&amp;gt;op2-&amp;gt;e </description>
@@ -1031,7 +1033,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Flowchart support</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/test-flowchart/</link>
         <pubDate>Thu, 14 Nov 2019 12:00:06 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 14 Nov 2019 12:00:06 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/posts/test-flowchart/</guid>
         <description>st=&amp;gt;start: Start|past:&amp;gt;http://www.google.com[blank] e=&amp;gt;end: End|future:&amp;gt;http://www.google.com op1=&amp;gt;operation: My Operation|past op2=&amp;gt;operation: Stuff|current sub1=&amp;gt;subroutine: My Subroutine|invalid cond=&amp;gt;condition: Yes or No?|approved:&amp;gt;http://www.google.com c2=&amp;gt;condition: Good idea|rejected io=&amp;gt;inputoutput: catch something...|future st-&amp;gt;op1(right)-&amp;gt;cond cond(yes, right)-&amp;gt;c2 cond(no)-&amp;gt;sub1(left)-&amp;gt;op1 c2(yes)-&amp;gt;io-&amp;gt;e c2(no)-&amp;gt;op2-&amp;gt;e </description>
@@ -1063,7 +1065,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Fourth</title>
         <link>http://wu-ji-shan.github.io/ko/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/presentation/dir/fourth/</guid>
         <description></description>
@@ -1093,7 +1095,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Fourth</title>
         <link>http://wu-ji-shan.github.io/ko/zh/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/presentation/dir/fourth/</guid>
         <description></description>
@@ -1123,7 +1125,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Third</title>
         <link>http://wu-ji-shan.github.io/ko/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/presentation/third/</guid>
         <description></description>
@@ -1153,7 +1155,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Third</title>
         <link>http://wu-ji-shan.github.io/ko/zh/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/presentation/third/</guid>
         <description></description>
@@ -1183,7 +1185,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Second</title>
         <link>http://wu-ji-shan.github.io/ko/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/presentation/second/</guid>
         <description></description>
@@ -1213,7 +1215,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Second</title>
         <link>http://wu-ji-shan.github.io/ko/zh/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/presentation/second/</guid>
         <description></description>
@@ -1243,7 +1245,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>First</title>
         <link>http://wu-ji-shan.github.io/ko/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/presentation/first/</guid>
         <description></description>
@@ -1273,7 +1275,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>First</title>
         <link>http://wu-ji-shan.github.io/ko/zh/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/presentation/first/</guid>
         <description></description>
@@ -1303,7 +1305,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Good Title</title>
         <link>http://wu-ji-shan.github.io/ko/en/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/publication/article/article_any_folder_name_1/</guid>
         <description></description>
@@ -1321,7 +1323,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Good Title</title>
         <link>http://wu-ji-shan.github.io/ko/zh/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/publication/article/article_any_folder_name_1/</guid>
         <description></description>
@@ -1339,7 +1341,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
         <link>http://wu-ji-shan.github.io/ko/en/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/publication/book/book_any_folder_name_1/</guid>
         <description></description>
@@ -1357,7 +1359,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
         <link>http://wu-ji-shan.github.io/ko/zh/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/publication/book/book_any_folder_name_1/</guid>
         <description></description>
@@ -1375,7 +1377,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Book Review: Duis vulputate</title>
         <link>http://wu-ji-shan.github.io/ko/en/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/en/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>
@@ -1393,7 +1395,7 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         <title>Book Review: Duis vulputate</title>
         <link>http://wu-ji-shan.github.io/ko/zh/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/ko/zh/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>

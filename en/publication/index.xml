@@ -11,8 +11,6 @@
     <description>Recent content in Publications on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
-    <webMaster>zpc999@gmail.com (无机山人)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>article</title>
         <link>http://wu-ji-shan.github.io/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/en/publication/article/</guid>
         <description></description>
@@ -42,7 +40,7 @@
         <title>book</title>
         <link>http://wu-ji-shan.github.io/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/en/publication/book/</guid>
         <description></description>
@@ -60,7 +58,7 @@
         <title>misc</title>
         <link>http://wu-ji-shan.github.io/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://wu-ji-shan.github.io/en/publication/misc/</guid>
         <description></description>

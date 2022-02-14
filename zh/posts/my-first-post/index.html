@@ -1331,10 +1331,10 @@
 
 
     
-<meta name="description" content="怎样写文章。" />
+<meta name="description" content="怎样快速建立网站" />
 
 
-<meta name="keywords" content="tag1">
+<meta name="keywords" content="github,建网站">
 
 <meta name="created" content="2022-02-12T00:00:00-0500">
 <meta name="modified" content="2022-02-12T00:00:00-0500">
@@ -1348,7 +1348,7 @@
 <meta property="og:title" content="第一弹试验成功">
 <meta property="og:url" content="http://wu-ji-shan.github.io/zh/posts/my-first-post/">
 <meta property="og:type" content="article">
-<meta property="og:description" content="怎样写文章。">
+<meta property="og:description" content="怎样快速建立网站">
 
 <meta name="generator" content="Hugo 0.92.2" />
 <meta name="msapplication-TileColor" content="#fff">
@@ -1389,8 +1389,8 @@
     "datePublished": "2022-02-12T00:00:00-05:00",
     "dateModified": "2022-02-12T00:00:00-05:00",
     "url" : "http://wu-ji-shan.github.io/zh/posts/my-first-post/",
-    "description": "怎样写文章。",
-    "keywords": ["tag1"],
+    "description": "怎样快速建立网站",
+    "keywords": ["github","建网站"],
     "author": {
       "@type": "Person",
       "name": ["无机山人"]
@@ -1790,7 +1790,7 @@
 <div class="single__infos">
   <time class="single__info" title="创建日期">📅&nbsp;2022年02月12日 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;1&nbsp;分钟 </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;2&nbsp;分钟 </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="作者">✍️&nbsp;[无机山人]</span>
   
@@ -1805,18 +1805,43 @@
   🏷️
   
 
-  <li><a href="http://wu-ji-shan.github.io/zh/tags/tag1/" class="single__tag" title="tag1">#tag1</a></li>
+  <li><a href="http://wu-ji-shan.github.io/zh/tags/github/" class="single__tag" title="github">#github</a></li>
+
+  <li><a href="http://wu-ji-shan.github.io/zh/tags/%E5%BB%BA%E7%BD%91%E7%AB%99/" class="single__tag" title="建网站">#建网站</a></li>
 
 </ul>
 
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <p>Okay&hellip;&hellip;This is my post body.</p>
-<h2 id="this-is-a-subsection">this is a subsection</h2>
-<p>Say something here</p>
-<h3 id="more-headings-here">more headings here</h3>
-<p>blabla</p>
+      <p>建立一个网站，好比买一个房子。大致有两种方式。第一种方式是自己设计，自己施工，一切按照自己的意愿来。这需要很长的时间和花费大的精力，且还得有这个爱好。第二种方式是买现成的，从前主人那里买来，把前主人的家具搬出去，把自己的家具搬进来。这需要大量地在市场上考察，最后选一个最接近自己意愿的房子。虽然不是完全适合自己的意愿，但是可以非常接近自己的意愿。做网站就是要考察各种themes，选择一个符合自己需要的themes，再把自己的内容（家具）一点一点地搬进去。最后房子完全变成自己的家园。现在看到的情况，就是我在往新居里面搬家具，把这个theme里面的旧家具一点一点往外搬。</p>
+<p>这个网站可以有中英文两种语言，我目前只注重建设中文页面，英文页面基本上是建网站的技术信息，目前暂且保存。或许有一点这个网站的英文会和中文一致的内容。先放在那里不管。</p>
+<h2 id="这个网站使用静态网页产生技术hugo">这个网站使用静态网页产生技术Hugo</h2>
+<p>静态网页产生比较简单，没有数据库等需要管理。主要有html和css，以及javascript，平时不用太费心神。<a href="http://gohugo.io">Hugo</a>使用很广泛，个人组织都有使用。本网站使用的theme是在Hugo网页上提供的免费下载：<a href="https://github.com/zzossig/hugo-theme-zzo">Zzo</a>。整体技术没有特别要求，一般的电脑都能做这样的事情。</p>
+<h2 id="目前这个网站是在github上面运行">目前这个网站是在github上面运行</h2>
+<p>Github提供个人和组织主页，现在我是在我个人注册的组织<a href="https://github.com/wu-ji-shan">wu-ji-shan</a>上部署这个网站，免费。关于如何在Github上建立网站，可以参考<a href="https://www.adamormsby.com/posts/000/how-to-set-up-a-hugo-site-on-github-pages-with-submodules/">此文</a>，有一点要注意，上面文章中git和github中的branch都是用的master。因为去年的政治风波，现在都已经不用master了，而是用main替代之。所以，里面说有用master的地方都最好改成main。修改办法是：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell">git branch -M main
+</code></pre></td></tr></table>
+</div>
+</div><p>另外一个需要注意的是，文章中提到把所有的文件放入git中时，使用：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell">git add .
+git commit -m <span class="s2">&#34;first commit&#34;</span>
+git push -u origin main
+</code></pre></td></tr></table>
+</div>
+</div><p>由于某种不明朗的原因，其实并不工作，推送的时候，git一直耗在那里，让人等待半个小时都没有回馈。我绕过这个问题的办法很土，花了不少时间，就是一个一个文件夹地add, commit and push。花了不少时间，但是最后还是工作了。</p>
 
     </article>
     
@@ -2022,7 +2047,7 @@
       
     
       
-        <a href="https://twitter.com/intent/tweet?text=%e7%ac%ac%e4%b8%80%e5%bc%b9%e8%af%95%e9%aa%8c%e6%88%90%e5%8a%9f&url=http%3a%2f%2fwu-ji-shan.github.io%2fzh%2fposts%2fmy-first-post%2f&hashtags=tag1&via=%5b%e6%97%a0%e6%9c%ba%e5%b1%b1%e4%ba%ba%5d" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=%e7%ac%ac%e4%b8%80%e5%bc%b9%e8%af%95%e9%aa%8c%e6%88%90%e5%8a%9f&url=http%3a%2f%2fwu-ji-shan.github.io%2fzh%2fposts%2fmy-first-post%2f&hashtags=github%2c%e5%bb%ba%e7%bd%91%e7%ab%99&via=%5b%e6%97%a0%e6%9c%ba%e5%b1%b1%e4%ba%ba%5d" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -2530,11 +2555,8 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#this-is-a-subsection">this is a subsection</a>
-      <ul>
-        <li><a href="#more-headings-here">more headings here</a></li>
-      </ul>
-    </li>
+    <li><a href="#这个网站使用静态网页产生技术hugo">这个网站使用静态网页产生技术Hugo</a></li>
+    <li><a href="#目前这个网站是在github上面运行">目前这个网站是在github上面运行</a></li>
   </ul>
 </nav>
   </div>
@@ -3138,14 +3160,14 @@ document.addEventListener('DOMContentLoaded', function () {
       
       
         
-      
-        
         
           
             
               <a href="http://wu-ji-shan.github.io/zh/posts/my-first-post/" data-lang="zh" class="dropdown-item is-active">中文</a>
             
           
+        
+      
         
       
         
