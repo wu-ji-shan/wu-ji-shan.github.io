@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on 无机山</title>
-    <link>http://example.org/zh/tags/</link>
+    <link>http://wu-ji-shan.github.io/zh/tags/</link>
     <description>Recent content in Tags on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Feb 2022 00:00:00 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>tag1</title>
-        <link>http://example.org/zh/tags/tag1/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/tag1/</link>
         <pubDate>Sat, 12 Feb 2022 00:00:00 -0500</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/tag1/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/tag1/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>shortcode</title>
-        <link>http://example.org/zh/tags/shortcode/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/shortcode/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/shortcode/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/shortcode/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>css</title>
-        <link>http://example.org/zh/tags/css/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/css/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/css/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>html</title>
-        <link>http://example.org/zh/tags/html/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/html/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/html/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>markdown</title>
-        <link>http://example.org/zh/tags/markdown/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/markdown/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/markdown/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>themes</title>
-        <link>http://example.org/zh/tags/themes/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/themes/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/themes/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>privacy</title>
-        <link>http://example.org/zh/tags/privacy/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/privacy/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/privacy/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/privacy/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>shortcodes</title>
-        <link>http://example.org/zh/tags/shortcodes/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/shortcodes/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/shortcodes/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/shortcodes/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>hugo</title>
-        <link>http://example.org/zh/tags/hugo/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/hugo/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>amoji</title>
-        <link>http://example.org/zh/tags/amoji/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/amoji/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>bamoji</title>
-        <link>http://example.org/zh/tags/bamoji/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/bamoji/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -220,11 +220,11 @@
       
       <item>
         <title>emoji</title>
-        <link>http://example.org/zh/tags/emoji/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/emoji/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -238,11 +238,11 @@
       
       <item>
         <title>gamoji</title>
-        <link>http://example.org/zh/tags/gamoji/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/gamoji/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -256,11 +256,11 @@
       
       <item>
         <title>namoji</title>
-        <link>http://example.org/zh/tags/namoji/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/namoji/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>diagram</title>
-        <link>http://example.org/zh/tags/diagram/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/diagram/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/diagram/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
@@ -292,11 +292,11 @@
       
       <item>
         <title>index</title>
-        <link>http://example.org/zh/tags/index/</link>
+        <link>http://wu-ji-shan.github.io/zh/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         
-        <guid>http://example.org/zh/tags/index/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/tags/index/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>

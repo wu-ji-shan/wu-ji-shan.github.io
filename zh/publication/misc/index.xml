@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>misc on 无机山</title>
-    <link>http://example.org/zh/publication/misc/</link>
+    <link>http://wu-ji-shan.github.io/zh/publication/misc/</link>
     <description>Recent content in misc on 无机山</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/zh/publication/misc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://wu-ji-shan.github.io/zh/publication/misc/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Book Review: Duis vulputate</title>
-        <link>http://example.org/zh/publication/misc/misc_any_folder_name_1/</link>
+        <link>http://wu-ji-shan.github.io/zh/publication/misc/misc_any_folder_name_1/</link>
         <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
         <author>zpc999@gmail.com (无机山人)</author>
         <atom:modified>Tue, 01 Nov 2016 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/zh/publication/misc/misc_any_folder_name_1/</guid>
+        <guid>http://wu-ji-shan.github.io/zh/publication/misc/misc_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>无机山人</dc:creator>
