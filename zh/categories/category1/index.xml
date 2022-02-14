@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>category1 on 无机山</title>
+    <link>http://example.org/zh/categories/category1/</link>
+    <description>Recent content in category1 on 无机山</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>zpc999@gmail.com (无机山人)</managingEditor>
+    <webMaster>zpc999@gmail.com (无机山人)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="http://example.org/zh/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>第一弹试验成功</title>
+        <link>http://example.org/zh/posts/my-first-post/</link>
+        <pubDate>Sat, 12 Feb 2022 00:00:00 -0500</pubDate>
+        <author>zpc999@gmail.com (无机山人)</author>
+        <atom:modified>Sat, 12 Feb 2022 00:00:00 -0500</atom:modified>
+        <guid>http://example.org/zh/posts/my-first-post/</guid>
+        <description>Okay&amp;hellip;&amp;hellip;This is my post body. this is a subsection Say something here more headings here blabla</description>
+        
+        <dc:creator>[无机山人]</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tag1</category>
+            
+          
+        
+        
+          
+            
+              <category>category1</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
