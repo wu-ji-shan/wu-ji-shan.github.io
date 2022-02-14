@@ -164,40 +164,6 @@ java javascript  1  System.out.println(&amp;#39;Hello World!&amp;#39;);     1  c
       </item>
       
       <item>
-        <title>Syntax highlighting</title>
-        <link>http://wu-ji-shan.github.io/zh/posts/syntax-highlight/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>zpc999@gmail.com (无机山人)</author>
-        <atom:modified>Wed, 18 Dec 2019 10:33:41 +0900</atom:modified>
-        <guid>http://wu-ji-shan.github.io/zh/posts/syntax-highlight/</guid>
-        <description>Code Syntax Highlighting Verify the following code blocks render as code blocks and highlight properly. More about tuning syntax highlighting is the Hugo documentation. Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new &amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original</description>
-        
-        <dc:creator>Jeus</dc:creator>
-        <media:content url="http://wu-ji-shan.github.ioimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
         <title>Math Typesetting</title>
         <link>http://wu-ji-shan.github.io/zh/posts/math-typesetting/</link>
         <pubDate>Tue, 17 Dec 2019 12:00:06 +0900</pubDate>

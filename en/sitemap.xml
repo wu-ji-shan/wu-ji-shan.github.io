@@ -414,11 +414,6 @@
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="http://wu-ji-shan.github.io/zh/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ko"
                 href="http://wu-ji-shan.github.io/ko/tags/hugo/"
                 />
@@ -432,11 +427,6 @@
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="http://wu-ji-shan.github.io/zh/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ko"
                 href="http://wu-ji-shan.github.io/ko/categories/hugo/"
                 />
@@ -448,16 +438,6 @@
   </url><url>
     <loc>http://wu-ji-shan.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://wu-ji-shan.github.io/zh/posts/syntax-highlight/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wu-ji-shan.github.io/en/posts/syntax-highlight/"
-                />
   </url><url>
     <loc>http://wu-ji-shan.github.io/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
