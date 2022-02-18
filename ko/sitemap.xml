@@ -38,6 +38,24 @@
     <loc>http://wu-ji-shan.github.io/ko/zh/posts/</loc>
     <lastmod>2022-02-18T00:00:00-05:00</lastmod>
   </url><url>
+    <loc>http://wu-ji-shan.github.io/ko/tags/shortcode/</loc>
+    <lastmod>2022-02-18T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://wu-ji-shan.github.io/zh/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://wu-ji-shan.github.io/en/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://wu-ji-shan.github.io/ko/tags/shortcode/"
+                />
+  </url><url>
     <loc>http://wu-ji-shan.github.io/ko/tags/</loc>
     <lastmod>2022-02-18T00:00:00-05:00</lastmod>
     <xhtml:link
@@ -54,6 +72,19 @@
                 rel="alternate"
                 hreflang="ko"
                 href="http://wu-ji-shan.github.io/ko/tags/"
+                />
+  </url><url>
+    <loc>http://wu-ji-shan.github.io/ko/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-02-18T00:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://wu-ji-shan.github.io/zh/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://wu-ji-shan.github.io/ko/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/</loc>
@@ -103,6 +134,9 @@
     <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t0633/</loc>
     <lastmod>2022-02-18T00:00:00-05:00</lastmod>
   </url><url>
+    <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t1010/</loc>
+    <lastmod>2022-02-18T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-17t1218/</loc>
     <lastmod>2022-02-17T00:00:00-05:00</lastmod>
   </url><url>
@@ -123,19 +157,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="http://wu-ji-shan.github.io/ko/tags/github/"
-                />
-  </url><url>
-    <loc>http://wu-ji-shan.github.io/ko/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-02-12T00:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://wu-ji-shan.github.io/zh/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/tags/%E5%BB%BA%E7%BD%91%E7%AB%99/</loc>
@@ -177,24 +198,6 @@
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/en/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-  </url><url>
-    <loc>http://wu-ji-shan.github.io/ko/tags/shortcode/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://wu-ji-shan.github.io/zh/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wu-ji-shan.github.io/en/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/shortcode/"
-                />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>

@@ -49,6 +49,36 @@
       </item>
       
       <item>
+        <title>自己定义shortcode</title>
+        <link>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t1010/</link>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 -0500</pubDate>
+        
+        <atom:modified>Fri, 18 Feb 2022 00:00:00 -0500</atom:modified>
+        <guid>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t1010/</guid>
+        <description>我想增加一个功能，就是实现tooltip，希望通过shortcode在这个系统中实现。大致上是这样实现的：第一在orgmode中定义一个ma</description>
+        
+        <dc:creator>[无机山人]</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+              <category>信息技术</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>君不见。</title>
         <link>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-17t1218/</link>
         <pubDate>Thu, 17 Feb 2022 00:00:00 -0500</pubDate>

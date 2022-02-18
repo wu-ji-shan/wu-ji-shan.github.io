@@ -12,11 +12,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 -0500</lastBuildDate>
     
         <atom:link href="http://wu-ji-shan.github.io/ko/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>自己定义shortcode</title>
+        <link>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t1010/</link>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 -0500</pubDate>
+        
+        <atom:modified>Fri, 18 Feb 2022 00:00:00 -0500</atom:modified>
+        <guid>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-18t1010/</guid>
+        <description>我想增加一个功能，就是实现tooltip，希望通过shortcode在这个系统中实现。大致上是这样实现的：第一在orgmode中定义一个ma</description>
+        
+        <dc:creator>[无机山人]</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+              <category>信息技术</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>第一弹试验成功</title>
