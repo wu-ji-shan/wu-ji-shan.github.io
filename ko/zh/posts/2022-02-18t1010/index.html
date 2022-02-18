@@ -1892,9 +1892,18 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 {{ end }}
 </code></pre></td></tr></table>
 </div>
-</div><p>如此这样，应该工作了。不过，由于一些细小的原因，目前我的设置还没有完全工作。今后总有一天会找出原因，现在不想花大量时间去解决它。<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+</div><p>如此这样，应该工作了。不过，由于一些细小的原因，目前我的设置还没有完全工作。今后总有一天会找出原因，现在不想花大量时间去解决它。<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>。点击下面的term，会出现definition。</p>
 <div class="tooltip">term<span class="tooltiptext">definition</span></div>
-<div class="footnotes" role="doc-endnotes">
+<p>Org使用macro的方式是：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-org" data-lang="org"><span class="nb">{{{tooltip(term,definition)}}}</span>
+</code></pre></td></tr></table>
+</div>
+</div><div class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
 <li id="fn:1" role="doc-endnote">
