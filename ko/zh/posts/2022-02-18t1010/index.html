@@ -1330,7 +1330,7 @@
 <link rel="stylesheet" href="/css/main.min.css">
 
 
-<link rel="stylesheet" href="http://wu-ji-shan.github.io/css/tooltip.css">
+<link rel="stylesheet" href="/css/tooltip.css">
 
 
 
@@ -1892,8 +1892,17 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 {{ end }}
 </code></pre></td></tr></table>
 </div>
-</div><p>如此这样，应该工作了。不过，由于一些细小的原因，目前我的设置还没有完全工作。今后总有一天会找出原因，现在不想花大量时间去解决它。</p>
+</div><p>如此这样，应该工作了。不过，由于一些细小的原因，目前我的设置还没有完全工作。今后总有一天会找出原因，现在不想花大量时间去解决它。<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <div class="tooltip">term<span class="tooltiptext">definition</span></div>
+<div class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>问题已经解决，原因是custom_css用的是absURL，应该都用relURL链接。为什么会出这个问题，我估计跟host site的服务器有关，具体原因不得而知，但是现在工作了，如下面的term和definition展示&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
     </article>
     
     
