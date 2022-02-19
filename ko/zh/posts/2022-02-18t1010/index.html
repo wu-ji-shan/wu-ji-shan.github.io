@@ -2270,11 +2270,11 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
     <ul class="related-ul">
         
         <li>
-          <a href="/ko/zh/posts/shortcodes/" class="related__link">Shortcodes</a>
+          <a href="/ko/en/posts/shortcodes/" class="related__link">Shortcodes</a>
         </li>
         
         <li>
-          <a href="/ko/en/posts/shortcodes/" class="related__link">Shortcodes</a>
+          <a href="/ko/zh/posts/shortcodes/" class="related__link">Shortcodes</a>
         </li>
         
     </ul>
@@ -2303,6 +2303,60 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
   
 </nav>
     
+  
+    <div id="utterances"></div>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by utterances.</a></noscript>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    function checkTheme(local, base) {
+      var currentTheme = local || base;
+
+      if (currentTheme === "dark") {
+        return "photon-dark";
+      } else if (currentTheme === "hacker") {
+        return "photon-dark";
+      } else if (currentTheme === "kimbie") {
+        return "github-dark-orange";
+      } else {
+        return "github-light";
+      }
+    }
+
+    try {
+      
+      var owner = JSON.parse("\"wu-ji-shan\"");
+      
+      var repo = JSON.parse("\"wu-ji-shan.github.io\"");
+      
+      var baseTheme = JSON.parse("\"dark\"");
+      var localTheme = localStorage.getItem('theme');
+      var utterTheme = checkTheme(localTheme, baseTheme);
+      var myScript = document.createElement('script');
+      myScript.setAttribute('src', 'https://utteranc.es/client.js');
+      myScript.setAttribute('repo', `${owner}/${repo}`);
+      myScript.setAttribute('issue-term', 'pathname');
+      myScript.setAttribute('theme', utterTheme);
+      myScript.setAttribute('crossorigin', 'anonymous');
+      myScript.setAttribute('async', '');
+      myScript.onload = function() {
+      }
+
+      
+
+      document.getElementById('utterances').appendChild(myScript);
+    } catch (err) {
+      console.log(err);
+    }
+  });
+</script>
+
+<div id="comments-fallback" class="viaemail">
+    <div class="utterances__message">
+        
+        <a href="https://github.com/wu-ji-shan/wu-ji-shan.github.io/issues/" target="_blank" rel="noreferrer">&nbsp;</a>
+    </div>
+</div>
+
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
@@ -3256,12 +3310,12 @@ document.addEventListener('DOMContentLoaded', function () {
       
       
         
-      
-        
         
           
             
           
+        
+      
         
       
         
