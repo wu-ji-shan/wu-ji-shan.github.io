@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://wu-ji-shan.github.io/ko/sitemap.xml</loc>
-    
-      <lastmod>2022-02-19T00:00:00-05:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>http://wu-ji-shan.github.io/zh/sitemap.xml</loc>
     
       <lastmod>2022-02-19T00:00:00-05:00</lastmod>
@@ -19,6 +12,13 @@
     <loc>http://wu-ji-shan.github.io/en/sitemap.xml</loc>
     
       <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://wu-ji-shan.github.io/ko/sitemap.xml</loc>
+    
+      <lastmod>2022-02-19T00:00:00-05:00</lastmod>
     
   </sitemap>
   

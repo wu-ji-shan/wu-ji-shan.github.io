@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>虚云老和尚 on 无机山</title>
+    <link>http://wu-ji-shan.github.io/ko/tags/%E8%99%9A%E4%BA%91%E8%80%81%E5%92%8C%E5%B0%9A/</link>
+    <description>Recent content in 虚云老和尚 on 无机山</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Feb 2022 00:00:00 -0500</lastBuildDate>
+    
+        <atom:link href="http://wu-ji-shan.github.io/ko/tags/%E8%99%9A%E4%BA%91%E8%80%81%E5%92%8C%E5%B0%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>顿悟初心</title>
+        <link>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-19t1127/</link>
+        <pubDate>Sat, 19 Feb 2022 00:00:00 -0500</pubDate>
+        
+        <atom:modified>Sat, 19 Feb 2022 00:00:00 -0500</atom:modified>
+        <guid>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-19t1127/</guid>
+        <description>&#34;虚云老和尚：顿悟初心，即究竟圆极，寂灭真如&#34;</description>
+        
+        <dc:creator>[虚云老和尚]</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>虚云老和尚</category>
+            
+          
+        
+        
+          
+            
+              <category>禅宗</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
