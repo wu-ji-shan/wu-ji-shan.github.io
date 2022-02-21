@@ -15,10 +15,10 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/zh/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/categories/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -36,10 +36,10 @@
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/zh/posts/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/tags/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -56,11 +56,11 @@
                 href="http://wu-ji-shan.github.io/ko/tags/"
                 />
   </url><url>
-    <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-20t0629/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-21t0642/</loc>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -78,7 +78,7 @@
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/tags/%E6%B0%B8%E5%98%89%E8%AF%81%E9%81%93%E6%AD%8C/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -91,7 +91,7 @@
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/categories/%E7%A6%85%E5%AE%97/</loc>
-    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
+    <lastmod>2022-02-21T00:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -102,6 +102,9 @@
                 hreflang="ko"
                 href="http://wu-ji-shan.github.io/ko/categories/%E7%A6%85%E5%AE%97/"
                 />
+  </url><url>
+    <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-20t0629/</loc>
+    <lastmod>2022-02-20T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://wu-ji-shan.github.io/ko/zh/posts/2022-02-19t0715/</loc>
     <lastmod>2022-02-19T00:00:00-05:00</lastmod>
