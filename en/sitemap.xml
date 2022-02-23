@@ -37,11 +37,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/"
                 />
@@ -120,11 +115,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/shortcode/"
                 />
@@ -148,11 +138,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -195,11 +180,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/categories/"
                 />
@@ -210,11 +190,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -231,11 +206,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/html/"
                 />
@@ -246,11 +216,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -280,11 +245,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/series/"
                 />
@@ -295,11 +255,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -316,11 +271,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/themes/"
                 />
@@ -331,11 +281,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -352,11 +297,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/series/themes-guide/"
                 />
@@ -367,11 +307,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -401,40 +336,15 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/shortcodes/"
                 />
   </url><url>
     <loc>http://wu-ji-shan.github.io/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wu-ji-shan.github.io/en/tags/hugo/"
-                />
   </url><url>
     <loc>http://wu-ji-shan.github.io/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://wu-ji-shan.github.io/en/categories/hugo/"
-                />
   </url><url>
     <loc>http://wu-ji-shan.github.io/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
@@ -461,11 +371,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/amoji/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/amoji/"
                 />
@@ -479,11 +384,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/bamoji/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/bamoji/"
                 />
@@ -494,11 +394,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -528,11 +423,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/gamoji/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/gamoji/"
                 />
@@ -546,11 +436,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/namoji/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/namoji/"
                 />
@@ -561,11 +446,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/categories/diagram/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/diagram/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -634,11 +514,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/diagram/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://wu-ji-shan.github.io/en/tags/diagram/"
                 />
@@ -662,11 +537,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/categories/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/categories/math/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -887,11 +757,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://wu-ji-shan.github.io/zh/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://wu-ji-shan.github.io/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
