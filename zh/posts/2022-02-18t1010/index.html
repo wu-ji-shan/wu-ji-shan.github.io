@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.cd44056d552c69703dced61ae60f99166a0ddf44be93d6aa5d5127d98bf98984.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.1551b6dbdacc77e412a26a29d3b84d2dcdc8f05c3b617433a475dc53c8872bdb.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1355,7 +1355,7 @@
 <meta property="og:type" content="article">
 <meta property="og:description" content="人人都要除妄,">
 
-<meta name="generator" content="Hugo 0.92.2" />
+<meta name="generator" content="Hugo 0.93.0" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1824,8 +1824,8 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-org" data-lang="org"><span class="cs">#+macro</span><span class="c">: tooltip @@html:&lt;div class=&#34;tooltip&#34;&gt;$1&lt;span class=&#34;tooltiptext&#34;&gt;$2&lt;/span&gt;&lt;/div&gt;@@</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-org" data-lang="org"><span class="line"><span class="cl"><span class="cs">#+macro</span><span class="c">: tooltip @@html:&lt;div class=&#34;tooltip&#34;&gt;$1&lt;span class=&#34;tooltiptext&#34;&gt;$2&lt;/span&gt;&lt;/div&gt;@@</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>这里面用到的两个classes：tooltip和tooltiptex需要定义在css文件中。</p>
 <p>在网上搜索后，将如下的css定义放在static目录下面的tooltip.css文件中</p>
@@ -1860,34 +1860,34 @@
 </span><span class="lnt">27
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text">/*
-Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip
-*/
-
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-
-    /* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">/*
+</span></span><span class="line"><span class="cl">Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=trycss_tooltip
+</span></span><span class="line"><span class="cl">*/
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">.tooltip {
+</span></span><span class="line"><span class="cl">    position: relative;
+</span></span><span class="line"><span class="cl">    display: inline-block;
+</span></span><span class="line"><span class="cl">    border-bottom: 1px dotted black;
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">.tooltip .tooltiptext {
+</span></span><span class="line"><span class="cl">    visibility: hidden;
+</span></span><span class="line"><span class="cl">    width: 120px;
+</span></span><span class="line"><span class="cl">    background-color: black;
+</span></span><span class="line"><span class="cl">    color: #fff;
+</span></span><span class="line"><span class="cl">    text-align: center;
+</span></span><span class="line"><span class="cl">    border-radius: 6px;
+</span></span><span class="line"><span class="cl">    padding: 5px 0;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    /* Position the tooltip */
+</span></span><span class="line"><span class="cl">    position: absolute;
+</span></span><span class="line"><span class="cl">    z-index: 1;
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">.tooltip:hover .tooltiptext {
+</span></span><span class="line"><span class="cl">    visibility: visible;
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>并在Param.toml文件中加入下面一行：</p>
 <div class="highlight"><div class="chroma">
@@ -1895,8 +1895,8 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text">custom_css = [&#34;css/tooltip.css&#34;]
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">custom_css = [&#34;css/tooltip.css&#34;]
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>最后，还需要告诉~hugo~把这个css文件加入html的head里面。</p>
 <div class="highlight"><div class="chroma">
@@ -1925,29 +1925,29 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 </span><span class="lnt">22
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text">themes/Zzo/layouts/partials/head/styles.html
-
-{{ $main_options := (dict &#34;targetPath&#34; &#34;css/main.css&#34; &#34;outputStyle&#34; &#34;compressed&#34;) }}
-{{ $main_template := resources.Get &#34;sass/main.scss&#34; }}
-{{ $main_style := $main_template | resources.ExecuteAsTemplate &#34;main_parsed.scss&#34; . | toCSS $main_options | resources.Minify }}
-&lt;link rel=&#34;stylesheet&#34; href=&#34;{{ $main_style.RelPermalink }}&#34;&gt;
-
-{{ if .Site.Params.custom_css }}
-{{ range .Site.Params.custom_css -}}
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;{{ . | absURL }}&#34;&gt;
-{{- end }}
-{{ end }}
-
-{{ if .Site.Params.custom_scss }}
-{{ range .Site.Params.custom_scss }}
-  {{ $custom_template := resources.Get . }}
-  {{ if $custom_template }}
-    {{ $custom_style := $custom_template | resources.ToCSS | resources.Minify }}
-    &lt;link rel=&#34;stylesheet&#34; href=&#34;{{ $custom_style.RelPermalink }}&#34;&gt;
-  {{ end }}
-{{ end }}
-{{ end }}
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">themes/Zzo/layouts/partials/head/styles.html
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">{{ $main_options := (dict &#34;targetPath&#34; &#34;css/main.css&#34; &#34;outputStyle&#34; &#34;compressed&#34;) }}
+</span></span><span class="line"><span class="cl">{{ $main_template := resources.Get &#34;sass/main.scss&#34; }}
+</span></span><span class="line"><span class="cl">{{ $main_style := $main_template | resources.ExecuteAsTemplate &#34;main_parsed.scss&#34; . | toCSS $main_options | resources.Minify }}
+</span></span><span class="line"><span class="cl">&lt;link rel=&#34;stylesheet&#34; href=&#34;{{ $main_style.RelPermalink }}&#34;&gt;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">{{ if .Site.Params.custom_css }}
+</span></span><span class="line"><span class="cl">{{ range .Site.Params.custom_css -}}
+</span></span><span class="line"><span class="cl">    &lt;link rel=&#34;stylesheet&#34; href=&#34;{{ . | absURL }}&#34;&gt;
+</span></span><span class="line"><span class="cl">{{- end }}
+</span></span><span class="line"><span class="cl">{{ end }}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">{{ if .Site.Params.custom_scss }}
+</span></span><span class="line"><span class="cl">{{ range .Site.Params.custom_scss }}
+</span></span><span class="line"><span class="cl">  {{ $custom_template := resources.Get . }}
+</span></span><span class="line"><span class="cl">  {{ if $custom_template }}
+</span></span><span class="line"><span class="cl">    {{ $custom_style := $custom_template | resources.ToCSS | resources.Minify }}
+</span></span><span class="line"><span class="cl">    &lt;link rel=&#34;stylesheet&#34; href=&#34;{{ $custom_style.RelPermalink }}&#34;&gt;
+</span></span><span class="line"><span class="cl">  {{ end }}
+</span></span><span class="line"><span class="cl">{{ end }}
+</span></span><span class="line"><span class="cl">{{ end }}
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>如此这样，应该工作了。不过，由于一些细小的原因，目前我的设置还没有完全工作。今后总有一天会找出原因，现在不想花大量时间去解决它。<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>。点击下面的term，会出现definition。</p>
 <div class="tooltip">term<span class="tooltiptext">definition</span></div>
@@ -1957,8 +1957,8 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-org" data-lang="org"><span class="nb">{{{tooltip(term,definition)}}}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-org" data-lang="org"><span class="line"><span class="cl"><span class="nb">{{{tooltip(term,definition)}}}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>不除妄想不求真            :永嘉证道歌:@禅宗:</p>
 <p>:EXPORT_FILE_NAME: 2022-02-19T07:15<br />
@@ -2459,7 +2459,7 @@ Tooltip style - copied from https://www.w3schools.com/css/tryit.asp?filename=try
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.5b45017db39b94db049dd81e997decf8d1d711d8e3efcb65cde3b58e7e456506.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 
