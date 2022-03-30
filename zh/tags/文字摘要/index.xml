@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>文字摘要 on 无机山</title>
+    <link>http://wu-ji-shan.github.io/zh/tags/%E6%96%87%E5%AD%97%E6%91%98%E8%A6%81/</link>
+    <description>Recent content in 文字摘要 on 无机山</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 -0400</lastBuildDate>
+    
+        <atom:link href="http://wu-ji-shan.github.io/zh/tags/%E6%96%87%E5%AD%97%E6%91%98%E8%A6%81/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>空宗性宗十大差别</title>
+        <link>http://wu-ji-shan.github.io/zh/posts/2022-03-30t1805/</link>
+        <pubDate>Wed, 30 Mar 2022 00:00:00 -0400</pubDate>
+        
+        <atom:modified>Wed, 30 Mar 2022 00:00:00 -0400</atom:modified>
+        <guid>http://wu-ji-shan.github.io/zh/posts/2022-03-30t1805/</guid>
+        <description>初法义真俗异者 空宗缘未显真灵之性故，但以一切差别之相为法。法是俗谛。照此诸法，无为无相，无生无灭，无增无减等为义，义是真谛。故《智度论》以俗</description>
+        
+        <dc:creator>圭峰宗密</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>文字摘要</category>
+            
+          
+        
+        
+          
+            
+              <category>佛教经论</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
